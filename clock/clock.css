@@ -1,0 +1,7 @@
+head{
+    background: #CDCEA3;
+background: -moz-linear-gradient(top, #CDCEA3 0%, #0C2E45 100%, #2A21C5 100%);
+background: -webkit-linear-gradient(top, #CDCEA3 0%, #0C2E45 100%, #2A21C5 100%);
+background: linear-gradient(to bottom, #CDCEA3 0%, #0C2E45 100%, #2A21C5 100%);
+  
+}
